@@ -1,0 +1,46 @@
+{
+  "seller": [
+    {
+      "name": "seller01",
+      "password": "seller01",
+      "email": "seller01@yopmail.com",
+      "id": 1
+    },
+    {
+      "name": "seller01",
+      "password": "seller01",
+      "email": "seller01@yopmail.com",
+      "id": 2
+    },
+    {
+      "name": "seller01",
+      "password": "seller01",
+      "email": "seller01@yopmail.com",
+      "id": 3
+    },
+    {
+      "name": "seller01",
+      "password": "sdsdsdsds",
+      "email": "testuser001@yopmail.com",
+      "id": 4
+    },
+    {
+      "name": "seller00012",
+      "password": "sdsdsdsds",
+      "email": "testuser001@yopmail.com",
+      "id": 5
+    },
+    {
+      "name": "testuser001",
+      "password": "dsdsdsdsdsd",
+      "email": "fsfs@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "testuser001",
+      "password": "dsdsdsdsdsd",
+      "email": "fsfs@gmail.com",
+      "id": 7
+    }
+  ]
+}

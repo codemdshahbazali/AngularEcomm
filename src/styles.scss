@@ -6,3 +6,21 @@ body{
     font-family: 'Times New Roman', Times, serif;
     min-height: 100vh;
 }
+
+.commonForm {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: center;
+}
+
+.formButton, .formInput{
+    height: 35px;
+    padding-left: 10px;
+    width: 300px;
+    font-size: 14px;
+    border: 1px solid blueviolet;
+    color: blueviolet;
+    outline: none;
+    cursor: pointer;
+}
